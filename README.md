@@ -3,7 +3,7 @@ A wiki for storing documents and references about TB and TB modeling
 
 # Getting Started
 This wiki is intended to serve as an on-boarding guide and reference material 
-cache for PPML team members working on TB proejcts.
+cache for PPML team members working on TB projects.
 
 This guide currently (is intended to) cover the following topics: 
 
