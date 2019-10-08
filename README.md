@@ -2,7 +2,7 @@
 #### A wiki for storing documents and references about TB and TB modeling
 
 ![Epidemics; how to meet them (1919) https://commons.wikimedia.org/wiki/File:Epidemics;_how_to_meet_them_(1919)_(14591119709).jpg](./images/epidemics.jpg)
-* [Epidemics; how to meet them (1919)](https://commons.wikimedia.org/wiki/File:Epidemics;_how_to_meet_them_(1919)_(14591119709).jpg)
+Image Source: [Epidemics; how to meet them (1919), Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Epidemics;_how_to_meet_them_(1919)_(14591119709).jpg)
 
 # Getting Started
 This wiki is intended to serve as an on-boarding guide and reference material 
