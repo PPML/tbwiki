@@ -30,7 +30,7 @@ Simply put, more machines = more redundancy and more power.
 For a deeper explanation about clusters, click [here](https://en.wikipedia.org/wiki/Computer_cluster). 
 
 #### Using the cluster at Harvard
-When you decide that your workflow can be improved by utilizing the cluster, you will need to request an account from the university. [Request a cluster account here](https://www.rc.fas.harvard.edu/resources/faq/how-do-i-get-a-research-computing-account/) Once you are approved, you will be notified via email. It is recommended that you look through the resources provided by the FASRC for a brief introduction to using the cluster, found [here](https://www.rc.fas.harvard.edu/training/introduction-to-cluster-online/). 
+When you decide that your workflow can be improved by utilizing the cluster, you will need to request an account from the university. [Request a cluster account here](https://www.rc.fas.harvard.edu/resources/faq/how-do-i-get-a-research-computing-account/). Once you are approved, you will be notified via email. It is recommended that you look through the resources provided by the FASRC for a brief introduction to using the cluster, found [here](https://www.rc.fas.harvard.edu/training/introduction-to-cluster-online/). 
 
 #### Cluster Basics 
 ##### Logging into the cluster 
