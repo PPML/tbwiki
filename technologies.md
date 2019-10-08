@@ -7,7 +7,9 @@ Image Source: Wikimedia Commons, WPA Federal Art Project, District 4, (between 1
 
 We use git. Git over it. 
 
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [Git Book](https://git-scm.com/book/en/v2)
+
 
 ## R
 
@@ -16,6 +18,7 @@ We use git. Git over it.
 ## Rcpp
 
 - [Rcpp guide](http://adv-r.had.co.nz/Rcpp.html)
+- [Rcpp Vignettes](https://cran.r-project.org/web/packages/Rcpp/vignettes/)
 
 ## Cluster Computing on Odyssey
 
