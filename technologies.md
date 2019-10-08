@@ -11,7 +11,7 @@ We use git. Git over it.
 
 ## R
 
-- [Getting Started with R, ctesta's](https://ctesta.com/articles/2018-05/getting-started-in-r)
+- [Getting Started with R](https://ctesta.com/articles/2018-05/getting-started-in-r)
 
 ## Rcpp
 
