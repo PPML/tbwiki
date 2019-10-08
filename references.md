@@ -10,6 +10,10 @@
 - [Introduction to the particle Markov-chain Monte Carlo, (supplemental GitHub repository)](https://github.com/akira-endo/Intro-PMCMC) [paper link, featured article in Epidemics](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1755436519300301)
 
 # References on Epidemiology, Demography
+- [Global Health Data Exchange](http://ghdx.healthdata.org)
+- [United States Lifetables via the Human Mortality Project](https://usa.mortality.org)
+- [CDC Wonder database](https://wonder.cdc.gov) 
+- 
 
 # Similar Projects (Our Competition)
 
