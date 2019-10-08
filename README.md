@@ -1,7 +1,7 @@
 # tbwiki
 A wiki for storing documents and references about TB and TB modeling
 
-![tb electron microscope scan](./images/tuberculosis.jpg)
+![tb electron microscope scan](./images/tuberculosis2.jpg)
 
 # Getting Started
 This wiki is intended to serve as an on-boarding guide and reference material 
