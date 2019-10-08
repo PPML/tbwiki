@@ -1,7 +1,7 @@
 # tbwiki
 A wiki for storing documents and references about TB and TB modeling
 
-![tb electron microscope scan](./images/tuberculosis2.jpg)
+![Epidemics; how to meet them (1919) https://commons.wikimedia.org/wiki/File:Epidemics;_how_to_meet_them_(1919)_(14591119709).jpg](./images/epidemics.jpg)
 
 # Getting Started
 This wiki is intended to serve as an on-boarding guide and reference material 
