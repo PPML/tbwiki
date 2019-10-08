@@ -1,7 +1,8 @@
 # References on TB, TB Disease
-- [National TB Model, Menzies et al. 2018](https://academic.oup.com/aje/article/187/9/2011/4995883/)
 
 # References on TB Modeling
+- [National TB Model, Menzies et al. 2018](https://academic.oup.com/aje/article/187/9/2011/4995883/)
+- [Four State TB Model, Shrestha et al. 2017](https://www.atsjournals.org/doi/full/10.1164/rccm.201702-0377OC)
 
 # References on Infectious Disease Modeling
 
@@ -13,3 +14,5 @@
 # Similar Projects (Our Competition)
 
 - [Global Epidemic and Mobility project (GLEAM) Project](https://www.gleamproject.org/)
+- [TIME Impact](https://www.who.int/tb/advisory_bodies/impact_measurement_taskforce/meetings/tf6_background_5f_time_dynamical_model.pdf)
+- [AuTuMN](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-017-2648-6) 
