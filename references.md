@@ -6,5 +6,6 @@
 # References on Infectious Disease Modeling
 
 - [Model Fitting and Inferences for Infectious Disease Dynamics 2019](http://sbfnk.github.io/mfiidd/index.html)
+- [Introduction to the particle Markov-chain Monte Carlo, (supplemental GitHub repository)](https://github.com/akira-endo/Intro-PMCMC) [paper link, featured article in Epidemics](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1755436519300301)
 
 # References on Epidemiology, Demography
