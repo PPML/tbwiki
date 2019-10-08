@@ -19,7 +19,8 @@ We use git. Git over it.
 
 - [Rcpp guide](http://adv-r.had.co.nz/Rcpp.html)
 - [Rcpp Vignettes](https://cran.r-project.org/web/packages/Rcpp/vignettes/)
+- [Rcpp.org](http://www.rcpp.org/)
 
 ## Cluster Computing on Odyssey
 
-[Request a cluster account here](https://www.rc.fas.harvard.edu/resources/faq/how-do-i-get-a-research-computing-account/)
+- [Request a cluster account here](https://www.rc.fas.harvard.edu/resources/faq/how-do-i-get-a-research-computing-account/)
