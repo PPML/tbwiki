@@ -5,6 +5,10 @@ Image Source: Wikimedia Commons, WPA Federal Art Project, District 4, (between 1
 
 ## Git
 
+We use git. Git over it. 
+
+- [Git Book](https://git-scm.com/book/en/v2)
+
 ## R
 
 ## Rcpp
