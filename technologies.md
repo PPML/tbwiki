@@ -15,4 +15,8 @@ We use git. Git over it.
 
 ## Rcpp
 
+- [Rcpp guide](http://adv-r.had.co.nz/Rcpp.html)
+
 ## Cluster Computing on Odyssey
+
+[Request a cluster account here](https://www.rc.fas.harvard.edu/resources/faq/how-do-i-get-a-research-computing-account/)
