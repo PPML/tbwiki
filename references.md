@@ -1,7 +1,3 @@
-# Git, R, Rcpp
-
-# Cluster Computing
-
 # References on TB, TB Disease
 
 # References on TB Modeling

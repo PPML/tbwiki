@@ -7,11 +7,11 @@ cache for PPML team members working on TB proejcts.
 
 This guide currently (is intended to) cover the following topics: 
 
-  - Major technologies used in the team ([](technologies.md)):
+  - Major technologies used in the team ([](./technologies.md)):
     - Git, R, Rcpp 
     - Cluster Computing 
 
-  - TB and TB-Relevant Reference Materials ([](references.md))
+  - TB and TB-Relevant Reference Materials ([](./references.md))
     - References & Links
     - Projects
 
