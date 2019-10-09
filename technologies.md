@@ -21,6 +21,10 @@ We use git. Git over it.
 - [Rcpp Vignettes](https://cran.r-project.org/web/packages/Rcpp/vignettes/)
 - [Rcpp.org](http://www.rcpp.org/)
 
+## R Markdown 
+
+- [R Markdown Cheatsheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
 ## Cluster Computing on Odyssey
 
 Often times the resources necessary to run our model calibrations are larger than what our desktop computers can efficiently perform. In order to increase our productivity, we submit these larger tasks to a computing cluster. If you are not familiar with a cluster and how to submit your jobs, please review the text below; if you are familiar, feel free to jump to the "Request a cluster account section" below.
