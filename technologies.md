@@ -3,6 +3,8 @@
 <img src="./images/dont_kiss_me.jpg" alt="Tuberculosis Don't kiss me! : Your kiss of affection - the germ of infection" width="250px">
 Image Source: Wikimedia Commons, WPA Federal Art Project, District 4, (between 1936 and 1941) [https://en.wikipedia.org/wiki/File:3f05369r_%288435815214%29.jpg]
 
+<br><br>
+
 More than any single technology listed here, it's importantant to think about why we use the technologies we do. So far, I have seen no better explanation than the [Best Practices for Scientific Computing publication in PloS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745).
 
 ## Git
