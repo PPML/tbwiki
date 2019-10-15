@@ -9,6 +9,7 @@ We use git. Git over it.
 
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [Git Book](https://git-scm.com/book/en/v2)
+- [Jenny Bryan - Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
 
 
 ## R
