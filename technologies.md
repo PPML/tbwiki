@@ -5,7 +5,7 @@ Image Source: Wikimedia Commons, WPA Federal Art Project, District 4, (between 1
 
 <br><br>
 
-More than any single technology listed here, it's importantant to think about why we use the technologies we do. So far, I have seen no better explanation than the [Best Practices for Scientific Computing publication in PloS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745).
+Moreso than thinking about how to use any individual technology listed here, it's importantant to think about why we use the technologies we use. So far, I have seen no better explanation than the [Best Practices for Scientific Computing publication in PloS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745).
 
 ## Git
 
